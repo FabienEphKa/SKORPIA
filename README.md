@@ -1,4 +1,8 @@
-# SKORPIA
+<p align="center">
+  <img src="skorpia-logo.png" alt="Logo SKORPIA" width="420">
+</p>
+
+# SKORPIA · IA locale portable pour macOS
 
 **Discuter, développer et créer avec des IA locales, dans une seule application macOS portable.**
 
