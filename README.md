@@ -52,7 +52,7 @@ Dans un projet Python de démonstration, Kodde a proposé d’inclure les articl
 ## Prochaines évolutions
 
 - **Qualité des réponses et autonomie.** Comparer SKORPIA à BIONIC dans LM Studio, avec les mêmes modèles et les mêmes scénarios. Travailler sur la compréhension du contexte, la capacité à terminer une tâche et la reprise après une erreur.
-- **Navigation dans Chrome.** Développer une extension inspirée de celle que j’ai créée pour **LAZYFAB**. SKORPIA pourrait ouvrir ses propres onglets en arrière-plan pour rechercher, lire et naviguer sur des sites externes sans perturber mes onglets personnels.
+- **Navigation dans Chrome.** Développer une extension inspirée de celle que j’ai créée pour **[LazyBrady](https://github.com/FabienEphKa/LazyBrady)**. SKORPIA pourrait ouvrir ses propres onglets en arrière-plan pour rechercher, lire et naviguer sur des sites externes sans perturber mes onglets personnels.
 - **Recherche Web.** Améliorer le choix des sources, la vérification des liens et la clarté des réponses quand les sources disponibles sont insuffisantes.
 - **Création et portabilité.** Approfondir les usages audio et vidéo, mieux guider le choix des modèles selon le matériel et étudier d’autres systèmes au-delà de macOS.
 
