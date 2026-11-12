@@ -35,9 +35,9 @@ Les captures de développement ont été anonymisées. Les identifiants locaux e
 
 ![Lokki lit une page de la documentation Python et affiche la source consultée](lokki.png)
 
-### Vizion · Préparation d’une création
+### Vizion · Génération d’image
 
-![Vizion affiche les modes image, audio et vidéo ainsi que la discussion créative](vizion.png)
+![Vizion affiche la discussion créative et la photo macro générée](vizion.png)
 
 ## Prochaines évolutions
 
@@ -48,6 +48,6 @@ Les captures de développement ont été anonymisées. Les identifiants locaux e
 
 ## Statut du projet
 
-SKORPIA est un projet privé à code fermé, en développement. Ce dépôt sert de vitrine pour présenter le projet et ses captures d’écran. Le code source, l’application et les modèles restent privés.
+SKORPIA est pour le moment un projet privé à code fermé, en développement. Ce dépôt présente le projet et ses captures d’écran. L’objectif est de mettre l’application à disposition du grand public lorsqu’elle sera prête.
 
 © Fabien EphKa. Tous droits réservés sur SKORPIA.
