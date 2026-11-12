@@ -35,6 +35,12 @@ Les captures de développement ont été anonymisées. Les identifiants locaux e
 
 ![Lokki lit une page de la documentation Python et affiche la source consultée](lokki.png)
 
+### Kodde · Correction de code et tests locaux
+
+Dans un projet Python de démonstration, Kodde a proposé d’inclure les articles dont le stock atteint exactement le seuil de réapprovisionnement. Après relecture et application du correctif, trois tests unitaires ont été lancés dans Kodde. Ils passent tous, dont celui qui échouait avant la modification.
+
+![Kodde compare stock.py avant et après la correction et affiche trois tests Python réussis](kodde.png)
+
 ### Vizion · Génération d’image
 
 ![Vizion affiche la discussion créative et la photo macro générée](vizion.png)
@@ -48,6 +54,6 @@ Les captures de développement ont été anonymisées. Les identifiants locaux e
 
 ## Statut du projet
 
-SKORPIA est pour le moment un projet privé à code fermé, en développement. Ce dépôt présente le projet et ses captures d’écran. L’objectif est de mettre l’application à disposition du grand public lorsqu’elle sera prête.
+SKORPIA est une application propriétaire à code fermé, en développement. Ce dépôt de présentation rassemble ses fonctionnalités, ses captures d’écran et sa feuille de route. L’objectif est de mettre l’application à disposition du grand public lorsqu’elle sera prête.
 
 © Fabien EphKa. Tous droits réservés sur SKORPIA.
