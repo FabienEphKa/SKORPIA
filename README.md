@@ -9,6 +9,8 @@
 **Version actuelle** · 0.3.14 (build 44)  
 **Création du projet** · 23 octobre 2026
 
+**Un portage Windows est prévu.**
+
 ## Pourquoi j’ai créé SKORPIA
 
 Je voulais pouvoir partir d’une idée, en discuter, travailler sur les fichiers d’un projet et créer un visuel ou une voix sans changer d’application à chaque étape. Chaque tâche peut bénéficier d’un modèle différent. SKORPIA réunit ces modèles dans un même espace de travail, avec la possibilité de transmettre le contexte d’un projet d’un espace à l’autre.
@@ -54,7 +56,7 @@ Dans un projet Python de démonstration, Kodde a proposé d’inclure les articl
 - **Qualité des réponses et autonomie.** Comparer SKORPIA à BIONIC dans LM Studio, avec les mêmes modèles et les mêmes scénarios. Travailler sur la compréhension du contexte, la capacité à terminer une tâche et la reprise après une erreur.
 - **Navigation dans Chrome.** Développer une extension inspirée de celle que j’ai créée pour **[LazyBrady](https://github.com/FabienEphKa/LazyBrady)**. SKORPIA pourrait ouvrir ses propres onglets en arrière-plan pour rechercher, lire et naviguer sur des sites externes sans perturber mes onglets personnels.
 - **Recherche Web.** Améliorer le choix des sources, la vérification des liens et la clarté des réponses quand les sources disponibles sont insuffisantes.
-- **Création et portabilité.** Approfondir les usages audio et vidéo, mieux guider le choix des modèles selon le matériel et étudier d’autres systèmes au-delà de macOS.
+- **Création et portabilité.** Approfondir les usages audio et vidéo, mieux guider le choix des modèles selon le matériel et préparer le portage vers Windows.
 
 ## Statut du projet
 
